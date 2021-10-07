@@ -1,5 +1,5 @@
 # magic-ball
-Widely know magic ball that give you an answer to your questions.
+Widely known magic ball that give you an answer to your questions.
 
 ## Table of Content
 * General Info
