@@ -12,3 +12,9 @@ Magic Ball has 20 possible answers, including 10 affirmative answers, 5 non-comm
 
 ## Technologies
 * Ruby 3.0.2
+
+## Setup
+To run the app open folder with it and run it using `ruby`
+> cd .../folder
+> 
+> ruby magic_ball.rb
