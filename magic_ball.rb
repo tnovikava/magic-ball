@@ -37,4 +37,4 @@ answers = [
 puts hello.sample
 puts
 sleep(2)
-puts answers.sample
+puts "The answer for your question: #{answers.sample}"
