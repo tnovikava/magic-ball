@@ -1,4 +1,4 @@
-hello = [
+greetings = [
   "Who asks will get the answer:",
   "Hello my dear friend. Answering your question...",
   "Hello dude. Today your answer is:"
@@ -34,7 +34,7 @@ answers = [
   "Very doubtful"
 ]
 
-puts hello.sample
+puts greetings.sample
 puts
 sleep(2)
 puts "The answer for your question: #{answers.sample}"
