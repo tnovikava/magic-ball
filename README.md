@@ -9,4 +9,6 @@ Technologies
 #### Setup ####
 To run the app open folder with it and run it using `ruby`.
 
-```ruby magic_ball.rb```
+```
+ruby magic_ball.rb
+```
